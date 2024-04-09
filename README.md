@@ -1,1 +1,1 @@
-# Gold-prices-prediction-using-ANN
+# Deep learning Projects using ANN and RNN only
